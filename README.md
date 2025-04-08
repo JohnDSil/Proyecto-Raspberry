@@ -1,3 +1,3 @@
 # Proyecto Raspberry
 
-[Raspberry](/img/raspberry.jpg)
+![Raspberry](/img/raspberry.jpg)
