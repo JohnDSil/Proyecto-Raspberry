@@ -1,2 +1,3 @@
-[![Proyecto Raspberry](https://img.youtube.com/vi/3e3k6O40VA0/0.jpg)](https://youtube.com/shorts/h3_rvUSiJd8)
+[![Proyecto Raspberry](https://img.youtube.com/vi/h3_rvUSiJd8/0.jpg)](https://www.youtube.com/shorts/h3_rvUSiJd8)
+
 
