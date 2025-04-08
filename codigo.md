@@ -1,1 +1,1 @@
-![codigo](ing/cod.jpeg)
+![codigo](img/cod.jpeg)
