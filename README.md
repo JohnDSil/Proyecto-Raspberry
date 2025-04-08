@@ -10,8 +10,8 @@
 
 <ins>Componentes del grupo</ins>
 
-# Sandra Bizcocho
+**Sandra Bizcocho**
 
-# Guillermo Catellanos
+**Guillermo Catellanos**
 
-# Daniel Silva
+**Daniel Silva**
