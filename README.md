@@ -8,7 +8,7 @@
 
 [Video explicativo del proyecto](video.md)
 
-<ins>Componentes del grupo</ins>
+<ins>Componentes del grupo:</ins>
 
 **Sandra Bizcocho**
 
